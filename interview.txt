@@ -1,0 +1,4 @@
+1. Reverse String
+2. Palindrome Number
+3. Prime Number
+4. Average
